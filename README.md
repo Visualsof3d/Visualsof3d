@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **Blender , 3d modelling**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C++ , Figma ,**
+- 💬 Ask me about **C++, Java, HTML, CSS, Javascript, React, Blender, Photoshop, Figma, **
 
 - 📫 How to reach me **rajankrr5151@gmail.com**
 
