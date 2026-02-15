@@ -4,7 +4,7 @@
 <!-- <h3 align="center">Frontend Developer | UI/UX Designer | 3D Artist</h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visualsof3d&label=Profile%20views&color=0e75b6&style=flat" alt="visualsof3d" /> </p>
 
-**I'm Rajan Kumar (he/him)** - A frontend developer, designer, artist and an undergrad student. I'm interested in DevOps, python, and building thriving online communities. I'm currently working on my Portfolio.
+**I'm Rajan Kumar** - A frontend developer, designer, artist and an undergrad student. I'm interested in DevOps, python, and building thriving online communities. I'm currently working on my Portfolio.
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,java,python,react,nodejs,docker,git"/>
